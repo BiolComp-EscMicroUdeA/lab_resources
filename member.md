@@ -6,3 +6,8 @@
 - **Email:** juan.vargasg1@udea.edu.co
 
 ---
+
+##Juan Pablo Anaya Villamizar
+- **Role:** Undergraduate Student
+- **Research topic:** Host-pathogen interactions
+- **Email:** juanpabloanvi@ufps.edu.co
