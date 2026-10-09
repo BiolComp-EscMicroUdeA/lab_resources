@@ -5,9 +5,9 @@ Copy the template below and fill in your details.
 
 ---
 
-## [Your Name]
-- **Role:** [Undergraduate Student / MSc Student / PhD Student / Researcher]
-- **Research topic:** [brief description]
-- **Email:** [your@udea.edu.co]
+## [Juan Esteban Varga]
+- **Role:** [Undergraduate Student]
+- **Research topic:** [Microbiome]
+- **Email:** [juan.vargasg1@udea.edu.co]
 
 ---
