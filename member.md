@@ -7,7 +7,7 @@
 
 ---
 
-##Juan Pablo Anaya Villamizar
+## Juan Pablo Anaya Villamizar
 - **Role:** Undergraduate Student
 - **Research topic:** Host-pathogen interactions
 - **Email:** juanpabloanvi@ufps.edu.co
