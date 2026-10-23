@@ -11,3 +11,4 @@
 - **Role:** Undergraduate Student
 - **Research topic:** Host-pathogen interactions
 - **Email:** juanpabloanvi@ufps.edu.co
+- **Solicitud apoyo:** Si deseas participar en un estudio en microbiota intestinal colombiana, contactame. Es gratis. Puedes ser voluntario.
