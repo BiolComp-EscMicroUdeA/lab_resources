@@ -11,3 +11,10 @@
 - **Role:** Undergraduate Student
 - **Research topic:** Host-pathogen interactions
 - **Email:** juanpabloanvi@ufps.edu.co
+
+---
+
+## Daniel González Marín
+- **Role:** Undergraduate Student
+- **Research topic:** Not defined yet
+- **Email:** daniel.gonzalez47@eia.edu.co
