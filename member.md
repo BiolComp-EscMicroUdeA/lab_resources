@@ -2,7 +2,7 @@
 
 ## Juan Esteban Vargas
 - **Role:** Undergraduate Student
-- **Research topic:** Microbiome, single-cell and  
+- **Research topic:** Microbiome and single-cell
 - **Email:** juan.vargasg1@udea.edu.co
 
 ---
